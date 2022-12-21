@@ -4,14 +4,14 @@ Aca encontraras un poco de mi avance en el mundo IT :D
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](https://github-readme-stats.vercel.app/api?username=edwardsfonseca&show_icons=true&theme=solarized-dark&icon_color=161717&title_color=000000&bg_color=DEG,000000,FFFFFF,FFFFFF,787878,0C1358&text_color=060A2C)
-<div class="row" >
+
 
 
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Alexanderwenger&repo=Proyecto-final&bg_color=1A1C30&text_color=FFFFFF&title_color=DCD4C1)](https://github.com/Alexanderwenger/Proyecto-final)
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=edwardsfonseca&repo=contadordeseg&bg_color=1A1C30&text_color=FFFFFF&title_color=DCD4C1)](https://github.com/edwardsfonseca/contadordeseg)
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=edwardsfonseca&repo=Flask-y-react&bg_color=1A1C30&text_color=FFFFFF&title_color=DCD4C1)](https://github.com/edwardsfonseca/Flask-y-react)
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=edwardsfonseca&repo=semaforo&bg_color=1A1C30&text_color=FFFFFF&title_color=DCD4C1&)](https://github.com/edwardsfonseca/semaforo)
-<div/>
+
  
  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edwardsfonseca&langs_count=5&layout=compact)](https://github.com/edwardsfonseca)

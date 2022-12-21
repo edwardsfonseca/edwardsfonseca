@@ -4,7 +4,7 @@ Aca encontraras un poco de mi avance en el mundo IT :D
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-![](https://github-readme-stats.vercel.app/api?username=edwardsfonseca&show_icons=true&theme=solarized-dark&icon_color=161717&title_color=000000&bg_color=DEG,000000,FFFFFF,FFFFFF,787878,787878&text_color=FFFFFF)
+![](https://github-readme-stats.vercel.app/api?username=edwardsfonseca&show_icons=true&theme=solarized-dark&icon_color=161717&title_color=000000&bg_color=DEG,000000,FFFFFF,FFFFFF,787878,0C1358&text_color=060A2C)
  
 <!--
 **edwardsfonseca/EdwardsFonseca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

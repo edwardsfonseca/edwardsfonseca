@@ -23,6 +23,7 @@ Aca encontraras un poco de mi avance en el mundo IT :D
  
  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edwardsfonseca&langs_count=5&layout=compact&bg_color=1A1C30&text_color=FFFFFF&title_color=DCD4C1&)](https://github.com/edwardsfonseca)
+ ![snake gif](https://github.com/edwardsfonseca/edwardsfonseca/blob/output/github-contribution-grid-snake.gif)
  
 <!--
 **edwardsfonseca/EdwardsFonseca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
